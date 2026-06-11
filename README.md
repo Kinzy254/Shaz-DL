@@ -1,4 +1,4 @@
-# Panel-dl v4
+# Panel Video Downloader
 
 Panel-dl v4 is a desktop YouTube downloader built with Python, `CustomTkinter`, and `yt-dlp`. It provides a lightweight GUI for searching YouTube, downloading audio or video, and tracking download history.
 
